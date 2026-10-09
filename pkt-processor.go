@@ -6,4 +6,5 @@ import (
 
 func DoGet() {
 	fmt.Println("fasdfasdf")
+	fmt.Pritnln("mkay")
 }
